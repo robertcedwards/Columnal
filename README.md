@@ -1,4 +1,4 @@
-This is a project by Pulp+Pixels, I've uploaded it to github to include in another project that I'm putting up on github
+This is a project by Pulp+Pixels
 ====================
 COLUMNAL GRID SYSTEM
 ====================
